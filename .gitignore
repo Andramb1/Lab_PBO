@@ -1,0 +1,9 @@
+# Folder hasil kompilasi Java
+bin/
+out/
+target/
+
+# Konfigurasi workspace atau OS
+.vscode/settings.json
+.DS_Store
+Thumbs.db
