@@ -9,7 +9,7 @@ public class Latihan04 {
             null,
             "Apakah anda ingin keluar ?",
             "Konfirmasi",
-            JOptionPane.YES_NO_OPTION,
+            JOptionPane.YES_NO_OPTION
             JOptionPane.QUESTION_MESSAGE
         );
 
